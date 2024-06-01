@@ -1,4 +1,4 @@
-# Timed-Practice
+# Timed-Drawing-Practice
 simple thing to load photos, set up a timer and draw
 
 
@@ -30,4 +30,4 @@ Toggle theme: Toggle betwen white and black theme.
    That's it!
 
    IF YOU ARE USING VERY LARGE IMAGES, IT MAY TAKE A FEW SECONDS FOR THE IMAGES TO BE RESIZED TO FIT THE WINDOW SIZE. KEEP THIS IN MIND.
-   Lastly, im not a dev i just made this because i needed.
+   Lastly, im not a professional dev i just made this because i needed.
